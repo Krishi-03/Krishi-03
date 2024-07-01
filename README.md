@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/notk_72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="notk_72" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/krishi desai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishi desai" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/krishi-desai-711a50223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishi desai" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/crazycoder_1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="crazycoder_1" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/krishi_desai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="krishi_desai" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/krishi_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krishi_03" height="30" width="40" /></a>
